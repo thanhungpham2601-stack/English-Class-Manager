@@ -1,0 +1,6 @@
+{
+  "name": "English Class Manager",
+  "description": "Hệ thống quản lý lớp học tiếng Anh toàn diện dành cho giáo viên: quản lý học sinh, lớp học, lịch dạy, điểm danh, bài tập, học phí và báo cáo tháng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
